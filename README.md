@@ -6,7 +6,8 @@ Node Typescript sales websites API for study purpose
 
 ## Practices
 
-- [] TDD
+<!-- - [] TDD -->
+
 - [x] Based on Clean Architecture
 - [x] Solid Principles
 - [x] DRY/YAGNI/KISS
@@ -22,17 +23,15 @@ Node Typescript sales websites API for study purpose
 <!-- - Express; -->
 <!-- - Jest; -->
 
-- Hooks (pre-commit and pre-push) with tester and linter;
+- **Hooks (pre-commit and pre-push)** with tester and linter;
 
 ## 3rd party APIs
-
--
 
 ## Installation/usage
 
 ## Documentation
 
-See the documentation [here].(https://www.google.com.br)
+See the documentation [here](https://www.google.com.br)
 
 ## License
 
